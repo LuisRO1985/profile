@@ -1,0 +1,72 @@
+/* Here goes your CSS *//* Here goes your CSS */
+body {
+  background: #3366CC ;
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  color: #7d7d7d;
+  font-size: 12px;
+  line-height: 1.6em;
+}
+
+h1, h2, h3, h4 {
+  font-size: 17px;
+  color: black;
+
+}
+
+.card{
+  background-color: white;
+  box-shadow: 1px 2px 3px rgba(0,0,0,0.3);
+  border-radius: 3px;
+  padding: 20px;
+  margin: 40px;
+  text-align: center
+
+}
+
+.container{
+  margin:0 auto;
+  width: 600px;
+
+}
+
+.movie-image{
+  width: 175px;
+  margin-right: 10px;
+}
+
+.me-image{
+  width: 100px;
+  border-radius: 50%;
+
+}
+
+.list-inline > li{
+  display: inline-block;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.list-inline{
+  padding-left: 0;
+
+}
+.list-inline a{
+  color: #3366CC;
+
+}
+
+.btn-red{
+  background-color: #0066FF ;
+  color: white;
+  font-weight: 400;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.paragraph-small{
+  font-size: 12px;
+}
+
+
+
